@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Muhammad Ayyb Ramli</h1>
 <h3 align="center">Just A Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhthoriqas&label=Profile%20views&color=0e75b6&style=flat" alt="muhthoriqas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhyubr&label=Profile%20views&color=0e75b6&style=flat" alt="mhyubr" /> </p>
 
 <img align="right" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -11,10 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammad-thoriq-ali-said-696111244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-thoriq-ali-said" height="30" width="40" /></a>
-<a href="https://instagram.com/mthoriq_as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mthoriq_as" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/thoriqas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thoriqas" height="30" width="40" style="  font-size: 30px;
-" /></a>
+<a href="https://www.linkedin.com/in/mhyubr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhyubr" height="30" width="40" /></a>
+<a href="https://instagram.com/mhyubr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhyubr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -148,8 +146,8 @@
 
  </p>
 
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muhthoriqas&hide=jupyter%20notebook,java,html&show_icons=true&langs_count=6&locale=en&layout=compact" alt="muhthoriqas" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhthoriqas&" alt="muhthoriqas" width="413px" /></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mhyubr&hide=jupyter%20notebook,java,html&show_icons=true&langs_count=6&locale=en&layout=compact" alt="mhyubr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhyubr&" alt="mhyubr" width="413px" /></p>
 
 <h3 align="left">This month i speend my time on:</h3>
 <!--START_SECTION:waka-->
@@ -168,11 +166,11 @@ CSS              45 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 <!-- 
-<a href="https://github.com/Muhthoriqas/My-Portofolio">
-  <img align="center" style="margin:0.5rem" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhthoriqas&repo=My-Portofolio"  />
+<a href="https://github.com/mhyubr/My-Portofolio">
+  <img align="center" style="margin:0.5rem" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mhyubr&repo=My-Portofolio"  />
 </a>
  -->
 
 <h3 align="left">My Contributions:</h3>
 
-![snake gif](https://github.com/Muhthoriqas/Muhthoriqas/blob/output/github-contribution-grid-snake-dark.svg)  
+![snake gif](https://github.com/mhyubr/mhyubr/blob/output/github-contribution-grid-snake-dark.svg)  
